@@ -1,0 +1,61 @@
+body {
+    background-image: linear-gradient(45deg, blue, red);
+}
+.jumbotron {
+    width: 700px;
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(185, 175, 175);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    
+}
+.form-control {
+    padding: 8x;
+    width: 650px;
+    margin-left: 25px;
+    margin-bottom: 1px;
+    
+
+}
+.selecionado {
+    background-color: yellow;
+}
+.negrito {
+    font-weight: bold ;
+}
+.corbox {
+    width: 40px;
+    height: 30px;
+    margin-left: 2%;
+  
+    
+    
+}
+.cordiv {
+    background-color: white;
+    width: 650;
+    text-align: left;
+    padding-left: 15px;
+    padding-bottom: 7px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 5px;
+    margin-top: 1px;
+} 
+#bot {
+    padding: 8x;
+    width: 650px;
+    margin-top: 4px;
+       
+}
+#msgerr {
+    padding: 8x;
+    width: 650px;
+    margin-left: 25px;
+    margin-bottom: 1px;  
+}
+
